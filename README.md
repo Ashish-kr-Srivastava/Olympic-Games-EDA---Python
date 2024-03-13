@@ -1,7 +1,8 @@
 <h1 align="center">OLYMPIC GAMES EDA</h1>
 
 
-**INTRODUCTION**
+**INTRODUCTION**<br>
+
 This project is based on the exploratory data analysis of Historic Olympic Game data using PYTHON.
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 The aim of this analysis was to extract valuable insights and answer a variety of questions related to the history, participation, and performance of nations and athletes in the Olympic Games.
